@@ -1,5 +1,17 @@
-template-repository (1.0-1) unstable; urgency=medium
+haskell-citeproc (0.6.0.1-3) unstable; urgency=medium
+
+  * Disable RTS -N for testsuite
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sun, 07 Aug 2022 13:34:50 +0300
+
+haskell-citeproc (0.6.0.1-2) unstable; urgency=medium
+
+  * Post-NEW source-only upload
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sun, 07 Aug 2022 10:13:57 +0300
+
+haskell-citeproc (0.6.0.1-1) unstable; urgency=low
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Fri, 05 Aug 2022 19:45:36 +0300
